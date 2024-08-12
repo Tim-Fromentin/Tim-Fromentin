@@ -39,7 +39,7 @@
     - [Exercice front-end mentor](#️-exercice-front-end-mentor)
     - [Exercice l'école du web](#️-exercice-lécole-du-web)
 
-4. [Contacts](#-contact)
+4. [Contact](#-contact)
 
 
 # 🙋Développeur français front-end
@@ -135,9 +135,6 @@ Développeur français de 20 ans comme préférence le front-end
 
 - [3-column-preview-card-component-main](https://github.com/Tim-Fromentin/3-column-preview-card-component-main-exercice-by-frontendMentor)
 
-  ### 📩 Contact
-  - [email](tim.fromentin.dev.pro@gmail.com)
-
 - [stats-preview-card-component-main](https://github.com/Tim-Fromentin/stats-preview-card-component-main-excercice-by-frontendMentor)
 
 - [faq-accordion-main](https://github.com/Tim-Fromentin/faq-accordion-main-exercice-by-FrontendMentor)
@@ -145,4 +142,7 @@ Développeur français de 20 ans comme préférence le front-end
 - [profile-card-component-main](https://github.com/Tim-Fromentin/profile-card-component-main-exercice-by-FrontendMentor)
 
 - [huddle-landing-page-with-single-introductory](https://github.com/Tim-Fromentin/huddle-landing-page-with-single-introductory-section-master-exercice-by-FrontendMentor)
+
+    ### 📩 Contact
+  - [email](tim.fromentin.dev.pro@gmail.com)
 
