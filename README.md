@@ -135,6 +135,9 @@ Développeur français de 20 ans comme préférence le front-end
 
 - [3-column-preview-card-component-main](https://github.com/Tim-Fromentin/3-column-preview-card-component-main-exercice-by-frontendMentor)
 
+  ### 📩 Contact
+  - [email](tim.fromentin.dev.pro@gmail.com)
+
 - [stats-preview-card-component-main](https://github.com/Tim-Fromentin/stats-preview-card-component-main-excercice-by-frontendMentor)
 
 - [faq-accordion-main](https://github.com/Tim-Fromentin/faq-accordion-main-exercice-by-FrontendMentor)
