@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-fromentin-339b03208)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)]()
 
+[![Free code camps certif](https://img.shields.io/badge/freecodecamp-Responsive%20Web%20Design-%2300.svg?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/tim-fromentin/responsive-web-design)
+
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
