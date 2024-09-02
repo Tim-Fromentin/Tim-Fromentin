@@ -86,7 +86,7 @@
 <img alt="website preview" src="./ap-website.gif" width="500">
 </p>
 
-- [Site web dévelopement web freelance](https://github.com/Tim-Fromentin/tim-fromentin-website) : ceci est le site web où je propose mes services de développeur\
+- [Site web dévelopement web freelance](https://github.com/Tim-Fromentin/tim-fromentin-website) : ceci est le site web où je propose mes services de développeur
 <p align="center">
 <img alt="website preview" src="./tf-website.png" width="100">
 </p>
