@@ -45,11 +45,12 @@
 
 
 # 🙋Développeur français front-end
-
+<p align="center">
 <img alt="me" width="150" src="./me.jpg">
+</p>
 
 
-## Développeur français de 20 ans comme préférence le front-end
+<h1 align="center">Développeur français de 20 ans comme préférence le front-end</h1>
 
 ## ⭐ Compétence
 ![total contributions](./contrib.svg)
@@ -81,8 +82,14 @@
 
 ### 🌐 Site web complet
 - [Premier projet web sortie](https://github.com/Tim-Fromentin/apie.digital) : Site web dans le but de promouvoir des solutions de sécurité informatique (stockage sécurisé, anti-virus, protection de site web, etc.)
+<p align="center">
+<img alt="website preview" src="./ap-website.gif" width="500">
+</p>
 
-- [Site web dévelopement web freelance](https://tim-fromentin.website) : ceci est le site web où je propose mes services de développeur
+- [Site web dévelopement web freelance](https://github.com/Tim-Fromentin/tim-fromentin-website) : ceci est le site web où je propose mes services de développeur\
+<p align="center">
+<img alt="website preview" src="./tf-website.png" width="100">
+</p>
 
 
 
