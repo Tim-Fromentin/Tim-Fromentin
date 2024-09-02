@@ -45,15 +45,14 @@
 
 
 # 🙋Développeur français front-end
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; padding: 50px;">
-<img src="./me.jpg" alt="drawing" width="150"/>
-<h1 style="text-align: center;">Développeur français de 20 ans comme préférence le front-end</h1>
-</div>
+
+<img alt="me" width="150" src="./me.jpg">
+
+
+## Développeur français de 20 ans comme préférence le front-end
 
 ## ⭐ Compétence
-<div style="display: flex; justify-content: center; padding-bottom: 50px;">
-<img alt="contrib" src="./contrib.svg">
-</div>
+![total contributions](./contrib.svg)
 
 ### 🔠 Languages informatique
 - Front-end
