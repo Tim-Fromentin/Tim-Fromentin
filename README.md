@@ -48,6 +48,7 @@
 Développeur français de 20 ans comme préférence le front-end
 
 ## ⭐ Compétence
+![total contributions](./contrib.svg)
 
 ### 🔠 Languages informatique
 - Front-end
