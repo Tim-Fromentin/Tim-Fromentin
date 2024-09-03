@@ -53,7 +53,10 @@
 <h1 align="center">Développeur français de 20 ans comme préférence le front-end</h1>
 
 ## ⭐ Compétence
-![total contributions](./contrib.svg)
+
+<p align="center">
+<img alt="total contributions" src="./contrib.svg">
+</p>
 
 ### 🔠 Languages informatique
 - Front-end
