@@ -1,6 +1,6 @@
 ﻿[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Tim-Fromentin)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/uNbhM2Bw7c)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-fromentin-339b03208)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-f-339b03208/)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)]()
 
 [![Free code camps certif](https://img.shields.io/badge/freecodecamp-Responsive%20Web%20Design-%2300.svg?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/tim-fromentin/responsive-web-design)
@@ -92,6 +92,11 @@
 - [Site web dévelopement web freelance](https://github.com/Tim-Fromentin/tim-fromentin-website) : ceci est le site web où je propose mes services de développeur
 <p align="center">
 <img alt="website preview" src="./tf-website.png" width="100">
+</p>
+
+- [Site web venant d'un exercice de frontendMentor sur le théme du tourisme spatiale](https://github.com/Tim-Fromentin/space-tourism-excercie-by-frontendmentor)
+<p align="center">
+<img alt="img space tourism" src="./space-tourism.webp" width="500">
 </p>
 
 
