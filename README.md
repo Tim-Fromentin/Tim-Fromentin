@@ -48,12 +48,10 @@
 
 
 # 🙋Développeur français front-end
-<p align="center">
-<img alt="me" width="150" src="./me.jpg">
-</p>
 
 
-<h1 align="center">Développeur français de 20 ans comme préférence le front-end</h1>
+
+<h1 align="center">Développeur web full-stack junior </h1>
 
 ## ⭐ Compétence
 
