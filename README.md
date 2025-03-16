@@ -39,6 +39,7 @@
     - [Site web complet](#-site-web-complet)
     - [Composants](#-composants)
     - [JavaScript](#-javascript)
+        - [Chrome Extension](#-chrome-extension)
     - [Python](#-python)
     - [Exemple](#-exemple)
     - [Exercice front-end mentor](#️-exercice-front-end-mentor)
@@ -130,7 +131,8 @@
 
 ### ｡🇯‌🇸‌ Javascript
 - [Calculateur d'imc](https://github.com/Tim-Fromentin/calcul-imc-js) : calculateur d'imc en Javascript
-
+#### 🌎 Chrome extension
+- [Extension qui supprime le CSS d'une page](https://chromewebstore.google.com/detail/remove-all-css/ohjeefjccmpfakjehbdclamnhpipnhcj)
 ### 🐍 Python
 
 - [Logiciel Tkinter](https://github.com/Tim-Fromentin/software_dev_utils_tkinter) : Outils pour les développeurs web.
