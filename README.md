@@ -133,7 +133,8 @@
 - [Calculateur d'imc](https://github.com/Tim-Fromentin/calcul-imc-js) : calculateur d'imc en Javascript
 #### 🌎 Chrome extension
 - [Extension qui supprime le CSS d'une page](https://chromewebstore.google.com/detail/remove-all-css/ohjeefjccmpfakjehbdclamnhpipnhcj)
-- [Extwnsion pour tester de l'HTML et du CSS rapidement](https://chromewebstore.google.com/detail/codequick/jhagbagdnbanbiadpfdampfebfdacafn)
+- [Extension pour tester de l'HTML et du CSS rapidement](https://chromewebstore.google.com/detail/codequick/jhagbagdnbanbiadpfdampfebfdacafn)
+- [Extension pour cacher tout les inputs d'une page](https://chromewebstore.google.com/detail/privateye/gmbfklmpmcacbjokhdkfffnbgkdkocmi)
 ### 🐍 Python
 
 - [Logiciel Tkinter](https://github.com/Tim-Fromentin/software_dev_utils_tkinter) : Outils pour les développeurs web.
