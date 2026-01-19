@@ -160,6 +160,7 @@
 ### ｡🇯‌🇸‌ Javascript
 - [Calculateur d'imc](https://github.com/Tim-Fromentin/calcul-imc-js) : calculateur d'imc en Javascript
 #### 🌎 Chrome extension
+- [Liste des extensions chrome](https://tim-fromentin.github.io/chrome_extensions/)
 - [Extension qui supprime le CSS d'une page](https://chromewebstore.google.com/detail/remove-all-css/ohjeefjccmpfakjehbdclamnhpipnhcj)
 - [Extension pour tester de l'HTML et du CSS rapidement](https://chromewebstore.google.com/detail/codequick/jhagbagdnbanbiadpfdampfebfdacafn)
 - [Extension pour cacher tout les inputs d'une page](https://chromewebstore.google.com/detail/privateye/gmbfklmpmcacbjokhdkfffnbgkdkocmi)
@@ -208,4 +209,5 @@
 
     ### 📩 Contact
   - [email](tim.fromentin.dev.pro@gmail.com)
+
 
