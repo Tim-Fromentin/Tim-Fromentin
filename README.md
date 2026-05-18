@@ -1,12 +1,4 @@
-﻿<style>
-h1 {
-    font-size: 50px;
-    border: none;
-}
-</style>
-
-
-<p align="center">
+﻿<p align="center">
   <img src="./ascii-1779131750711.gif" alt="Tim Art Animation">
 </p>
 
