@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img style="max-height: 500px" src="./ascii-1779131750711.gif" alt="Tim Art Animation">
+  <img style="max-height: 300px" src="./ascii-1779131750711.gif" alt="Tim Art Animation">
 </p>
 
 <p align="center">
