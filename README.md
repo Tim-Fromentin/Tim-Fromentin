@@ -1,16 +1,3 @@
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/timfromentin)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tim-fromentin-339b03208/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Tim-Fromentin)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](1242587565907775549)
-[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)]()
-
-### Projet :
-[![sclimat](https://img.shields.io/badge/Sclimat-4285F4)](https://pompeachaleurloiret.fr/)
-[![bokreno](https://img.shields.io/badge/Bokreno-FF5733)](https://autoecolebokreno.com/)
-[![bokreno](https://img.shields.io/badge/SnapKit-33daff)](https://snapkit.tim.fromentin.v70208.dev-campus.fr/)
-
-
-
 [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
