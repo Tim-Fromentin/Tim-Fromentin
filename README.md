@@ -62,29 +62,6 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-
-# Tables des matiéres
-1.  [Présentation](#développeur-français-front-end)
-
-2. [Compétence](#-compétence)
-    - [Languages informatique](#-languages-informatique)
-    - [Languages](#-languages)
-
-3. [Listes projets](#️liste-projet)
-    - [Site web complet](#-site-web-complet)
-    - [Composants](#-composants)
-    - [JavaScript](#-javascript)
-        - [Chrome Extension](#-chrome-extension)
-    - [Python](#-python)
-    - [Exemple](#-exemple)
-    - [Exercice front-end mentor](#️-exercice-front-end-mentor)
-    - [Exercice l'école du web](#️-exercice-lécole-du-web)
-
-4. [Contact](#-contact)
-
-
-
-
 <br>
 <br>
 
@@ -129,7 +106,5 @@
 
 
 
-    ### 📩 Contact
-  - [email](tim.fromentin.dev.pro@gmail.com)
 
 
